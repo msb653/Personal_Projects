@@ -1,0 +1,2 @@
+Two player pong game created with Java.
+Graphics and display are implemented using the Java's Abstract Window Toolkit (java.AWT).
